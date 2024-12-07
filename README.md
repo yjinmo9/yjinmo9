@@ -1,4 +1,8 @@
-## Hi there 👋
+
+# 👋 Hello! I'm Jinmo  
+ 
+
+"새로운 것을 배우고 도전하는 과정에서 즐거움을 찾으며 매일 더 나아지기 위해 노력하고 있습니다."  
 
 <!--
 **yjinmo9/yjinmo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+
+## ✨ Goals  
+작은 프로젝트에서 시작해, 점차 큰 도전과 성장으로 이어가고 싶습니다.  
+
+저와 함께 배우고 성장하고 싶으신 분들은 언제든 환영합니다!  
+
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+
+## Skills & Tools  
+
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
+ 
+
+&nbsp;
+ 
+
+### 📘 **Now I'm Studying**  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
