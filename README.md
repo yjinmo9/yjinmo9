@@ -1,9 +1,3 @@
-
-# 👋 Hello! I'm Jinmo  
- 
-
-"새로운 것을 배우고 도전하는 과정에서 즐거움을 찾으며 매일 더 나아지기 위해 노력하고 있습니다."  
-
 <!--
 **yjinmo9/yjinmo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+# 👋 Hello! I'm Jinmo  
+ 
+
+"새로운 것을 배우고 도전하는 과정에서 즐거움을 찾으며 매일 더 나아지기 위해 노력하고 있습니다."  
 
 
 
@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 ## Skills & Tools  
 
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+
  
 
 &nbsp;
