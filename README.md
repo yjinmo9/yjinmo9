@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## 🛠️ Skills & Tools  
 
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) 
 
  
 
