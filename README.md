@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### **Core Specialties**
 **LLM & Backend Engineering**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Vertex%20AI-4285F4?logo=googlecloud&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-0EBC8C?logo=pinecone&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-FFDD00?logo=streamlit&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Vertex%20AI-4285F4?logo=googlecloud&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-0EBC8C?logo=pinecone&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-FFDD00?logo=streamlit&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 **Machine Learning & Data Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
