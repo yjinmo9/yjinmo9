@@ -57,11 +57,6 @@ Here are some ideas to get you started:
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 
-**Infra & Deployment**  
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) 
-
-**Collaboration & Prototyping**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black) ![Mermaid](https://img.shields.io/badge/Mermaid-009688?logo=mermaid&logoColor=white)
 
 
 
