@@ -44,18 +44,42 @@ Here are some ideas to get you started:
 
 ## 🛠️ Skill Stack
 
-### **Core Specialties**
-**LLM & Backend Engineering**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Vertex%20AI-4285F4?logo=googlecloud&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-0EBC8C?logo=pinecone&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-FFDD00?logo=streamlit&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
-**Machine Learning & Data Analysis**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
+### 🧠 Core Focus
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-FFDD00?logo=streamlit&logoColor=black)
+
 
 ---
 
-### **Additional Tools & Frameworks**
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+### 📊 Machine Learning & Data
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00BFAE?logo=lightgbm&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=python&logoColor=white)
+
+---
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+
+---
+
+### ⚙️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black)
+
+
 
 
 
