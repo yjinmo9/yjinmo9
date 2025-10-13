@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 &nbsp; 
 
 
-
+---
 
 
 ## 🛠️ Skill Stack
 ### AI, Backend, Machine Learning & Data를 공부하고 있습니다.
 
----
+
 
 ### 🧠 Core Focus
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
----
+
 
 ### 💻 Additional Stack
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Langfuse](https://img.shields.io/badge/Langfuse-FFDD00?logo=streamlit&logoColor=black)
 
----
+
 
 ### ⚙️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
