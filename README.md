@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 ## 🛠️ Skill Stack
-### AI, Backend, Machine Learning & Data를 공부하고 있습니다.
+### Backend, Machine Learning & Data, AI를 공부하고 있습니다.
 
 
 
