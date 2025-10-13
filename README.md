@@ -41,43 +41,31 @@ Here are some ideas to get you started:
 
 
 
-
 ## 🛠️ Skill Stack
+### AI, Backend, Machine Learning & Data를 공부하고 있습니다.
 
+---
 
 ### 🧠 Core Focus
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-FFDD00?logo=streamlit&logoColor=black)
-
-
----
-
-### 📊 Machine Learning & Data
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00BFAE?logo=lightgbm&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=python&logoColor=white)
-
----
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
+---
+
+### 💻 Additional Stack
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Langfuse](https://img.shields.io/badge/Langfuse-FFDD00?logo=streamlit&logoColor=black)
 
 ---
 
 ### ⚙️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black)
+
 
 
 
