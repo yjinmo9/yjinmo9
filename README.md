@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 
-### 🧠 Core Focus
+### Core Focus
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 
 
 
-### 💻 Additional Stack
+### Additional Stack
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Langfuse](https://img.shields.io/badge/Langfuse-FFDD00?logo=streamlit&logoColor=black)
 
 
 
-### ⚙️ Tools & Workflow
+### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
