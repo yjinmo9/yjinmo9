@@ -39,10 +39,17 @@ Here are some ideas to get you started:
 
 
 
+## 🥾 Activities
+
+- [악학 창업 해커톤](#) 🏆 **최우수상 - 2025** 
+- [고려대학교 정보대학 소프트웨어 경진대회 NE:XT Contest](#) 🔍 시민참여형 소식보고앱, **시보CIVO**
+
+
+
 
 
 ## 🛠️ Skill Stack
-### Backend, Machine Learning & Data, AI를 공부하고 있습니다.
+### Backend, Machine Learning & Data 를 공부하고 있습니다.
 
 
 
