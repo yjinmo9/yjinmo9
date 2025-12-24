@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 ### [ Machine Learning ]
-- **[토스 NEXT ML Challenge](#)** [ **Top 12%** ] 실시간 광고 클릭 예측(CTR) 모델 개발 (2,700여 명 참여)
+- **[DACON 토스 NEXT ML Challenge](#)** [ **Top 12%** ] 실시간 광고 클릭 예측(CTR) 모델 개발 (2,700여 명 참여)
 
 
 &nbsp; 
