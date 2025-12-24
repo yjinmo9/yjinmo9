@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 ## 🥾 Activities
 
 ### [ Development & Hackathon ]
-- [악학 창업 해커톤](#) [ 🏆 **최우수상** ] 🌿 제약·바이오 똑똑하게 투자하는 법, **바이바이오(BUYBIO)**
-- [고려대학교 정보대학 소프트웨어 경진대회 NE:XT Contest](#) 🔍 시민참여형 소식보고앱, **시보CIVO**
+- [악학 창업 해커톤](https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=3&ix=99719) [ 🏆 **최우수상** ] 🌿 제약·바이오 똑똑하게 투자하는 법, **바이바이오(BUYBIO)**
+- [고려대학교 정보대학 소프트웨어 경진대회 NE:XT Contest](https://www.instagram.com/2025_nextcon/) 🔍 시민참여형 소식보고앱, **시보CIVO**
 
 
 ### [ Machine Learning ]
-- **[DACON 토스 NEXT ML Challenge](#)** [ **Top 12%** ] 실시간 광고 클릭 예측(CTR) 모델 개발 (2,700여 명 참여)
+- **[DACON 토스 NEXT ML Challenge](https://dacon.io/competitions/official/236575/overview/description)** [ **Top 12%** ] 실시간 광고 클릭 예측(CTR) 모델 개발 (2,700여 명 참여)
 
 
 &nbsp; 
