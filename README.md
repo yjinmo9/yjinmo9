@@ -61,23 +61,16 @@ Here are some ideas to get you started:
 
 
 ### 🚀 Core Focus
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 
 
 ### 🧩 Additional Stack
-
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 
