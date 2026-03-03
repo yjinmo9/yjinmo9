@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 ### [ Machine Learning ]
 - **[DACON 토스 NEXT ML Challenge](https://dacon.io/competitions/official/236575/overview/description)** [ **Top 12%** ] 실시간 광고 클릭 예측(CTR) 모델 개발 (2,700여 명 참여)
+- **[Aimers 8기 : 모델 경량화 온라인 해커톤]([https://dacon.io/competitions/official/236575/overview/description(https://dacon.io/competitions/official/236673/overview/description))** [ **Top 4%** ] 본선 진출 및 EXAONE-4.0-1.2B 모델 경량화 전략 설계 (1,538명 참여)
 
 
 &nbsp; 
