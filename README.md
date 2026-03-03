@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ### [ Development & Hackathon ]
 - **[악학XIT 창업 해커톤](https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=3&ix=99719) [ 🏆 **최우수상** ]** 🌿 제약·바이오 똑똑하게 투자하는 법, **바이바이오(BUYBIO)**
 - **[고려대학교 정보대학 소프트웨어 경진대회 NE:XT Contest](https://www.instagram.com/2025_nextcon/)** 🔍 시민참여형 소식보고앱, **시보CIVO**
+- **[스위프 사이드프로젝트]([https://www.instagram.com/2025_nextcon/](https://swyp.im/web))** 🔖 사용자 맞춤형 링크 큐레이션 및 관리 서비스, **KEEPIT**
+  
 
 
 ### [ Machine Learning ]
