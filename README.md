@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 # 👋 Hello! I'm Jinmo  
- 
+
 
 "새로운 것을 배우고 도전하는 과정에서 즐거움을 찾으며 매일 더 나아지기 위해 노력하고 있습니다."  
 
