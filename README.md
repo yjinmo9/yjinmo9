@@ -83,15 +83,6 @@ Here are some ideas to get you started:
 
 
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-
-
-
-
-
 
 
 
