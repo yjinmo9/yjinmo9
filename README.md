@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 ### [ Development & Hackathon ]
 
+- **[SWYP 앱 4기 사이드프로젝트](https://teamswyg.notion.site/34820241cf7f80d68506d5a5fcfea4db) [ 🏆 **대상** ]** 🗳️ 가치관 배틀 및 원터치 투표 기반 지식 큐레이션 플랫폼, **[피케(PICKé)]([https://github.com/KULion-dev](https://blog.swyp.im/pick-your-thoughts/))**
 - **[SWYP 웹 12기 사이드프로젝트](https://swyp.im/web)** 🔖 사용자 맞춤형 링크 큐레이션 및 관리 서비스, **[KEEPIT](https://github.com/SWYP12-Team9/keepit-backend)**
 - **[악학XIT 창업 해커톤](https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=3&ix=99719) [ 🏆 **최우수상** ]** 🌿 제약·바이오 똑똑하게 투자하는 법, **바이바이오(BUYBIO)**
 - **[고려대학교 정보대학 소프트웨어 경진대회 NE:XT Contest](https://www.instagram.com/2025_nextcon/)** 🔍 시민참여형 소식보고앱, **[시보CIVO](https://github.com/yjinmo9/NEXT_CONTEST)**
